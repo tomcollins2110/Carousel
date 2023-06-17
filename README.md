@@ -2,9 +2,10 @@
 
 This weather app uses Open Weather org API.
 
-Users can search cities and get a description o f the local weather and conditions.
+It is built through react.js.
 
-## Available Sc
+Users can search cities and get a description of the local weather and conditions.
+
 
 ### Deployment
 
